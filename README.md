@@ -18,7 +18,7 @@ This project uses Keras to implement an EfficientNet-B0 model for classifying sk
 
 ## Results
 
-* Test Loss: 0.3456
+* Test Loss: 34.56%
 * Test Accuracy: 85.02269%
 
 ## Model Details
